@@ -1,0 +1,20 @@
+site_name: Raspberry Pi for Mere Mortals
+site_description: Plain-language Raspberry Pi — every current model compared, which Pi fits which job, headless setup, and first projects.
+site_url: https://paulsullivan33-dev.github.io/raspberry-pi-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Is a Raspberry Pi?: what-is-a-pi.md
+  - The Lineup: the-lineup.md
+  - Which Pi for What: which-pi-for-what.md
+  - Headless Setup: headless-setup.md
+  - Pi OS Essentials: pi-os-essentials.md
+  - Your First Projects: your-first-projects.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
